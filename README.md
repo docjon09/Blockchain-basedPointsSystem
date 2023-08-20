@@ -1,6 +1,7 @@
 # Blockchain-basedPointsSystem
 This is the submission of the team 'comders@2023' for Flipkart GRiD 5.
 As the zip file was larger than the 50mb limit, I am instead giving the link to this github repository.
+This file also contains the video for the submission.
 
 To run the web application, first install yarn.
 Then go to token-ui directory and run the following commands
